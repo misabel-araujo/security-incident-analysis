@@ -125,4 +125,4 @@ ORDER BY eventos_maliciosos DESC;
 ## Author
 María Isabel Araujo Robalino
 IT Security Professional | Security Analyst
-[LinkedIn](www.linkedin.com/in/maría-isabel-araujo-1a4b142b1)
+
