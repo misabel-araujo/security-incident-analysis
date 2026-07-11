@@ -27,7 +27,7 @@ security metrics using SQL and Power BI.
 - **DDoS** accounted for 4.53% of total traffic (95,144 events)
 
 ## Dashboard Preview
-dashboard_01.png
+![Dashboard](dashboard_01.png)
 
 ## SQL Queries
 
