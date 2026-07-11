@@ -27,7 +27,7 @@ security metrics using SQL and Power BI.
 - **DDoS** accounted for 4.53% of total traffic (95,144 events)
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard_preview.png)
+dashboard_01.png
 
 ## SQL Queries
 
@@ -125,4 +125,4 @@ ORDER BY eventos_maliciosos DESC;
 ## Author
 María Isabel Araujo Robalino
 IT Security Professional | Security Analyst
-[LinkedIn](https://linkedin.com/in/maría-isabelaraujo-robalino-1a4b142b1)
+[LinkedIn](www.linkedin.com/in/maría-isabel-araujo-1a4b142b1)
